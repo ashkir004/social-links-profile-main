@@ -1,0 +1,21 @@
+{
+  "name": "social-links-profile",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Social Links Profile Challenge",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html",
+    "dev": "live-server --port=3000 --open=/index.html --watch=.",
+    "serve": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [
+    "frontend-mentor",
+    "html",
+    "css"
+  ],
+  "author": "",
+  "license": "MIT"
+}
