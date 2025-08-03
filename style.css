@@ -13,5 +13,74 @@
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  background-color: hsl(0, 0%, 8%);
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
 }
 
+main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* CARD */
+.card {
+  background-color: hsl(0, 0%, 12%);
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: .5rem; 
+  padding: 1.5rem
+}
+
+img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  margin-block-end: 1.5rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-block-end: .3rem;
+}
+
+h2 {
+  font-size: .9rem;
+  font-weight: 500;
+  color: hsl(75, 94%, 57%);
+}
+
+p {
+  font-size: .8rem;
+  margin: 1.5rem 0 1.5rem;
+}
+
+ul {
+  width: 100%;
+}
+
+li {
+  display: block;
+  width: 100%;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: .5rem;
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .8rem 1rem;
+  margin-block-end: 1rem;
+}
+
+li:last-child {
+  margin-block-end: 0;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
