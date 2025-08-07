@@ -96,7 +96,7 @@ li:hover a {
   color: hsl(0, 0%, 8%);
 }
 
-@media (min-width: 64rem) {
+@media (min-width: 90rem) {
   .card {
     width: 24rem;
     padding: 2.625rem;
