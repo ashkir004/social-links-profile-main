@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ashkir004/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://ashkir004-social-links-profile-main.netlify.app/)
+- Solution URL: [Social Links Profile Main (Github)](https://github.com/ashkir004/social-links-profile-main)
+- Live Site URL: [Social Links Profile Main (Netlify)](https://ashkir004-social-links-profile-main.netlify.app/)
 
 ## My process
 
